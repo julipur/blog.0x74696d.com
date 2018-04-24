@@ -25,7 +25,7 @@ If you'd like to skip ahead to the rest of the series:
 
 My friend and former colleague Bridget Kromhout is fond of saying ["containers won't fix your broken culture"](https://queue.acm.org/detail.cfm?id=3185224). And she's right. Ryn Daniels, one of the authors of _Effective DevOps_, said in their [keynote at Velocity NY 2016](https://www.oreilly.com/ideas/building-bridges-with-devops-velocity-ny-2016) that "tools won't fix your broken culture." And they're right.
 
-This is the essence of the problem we face as technologists trying to improve our organizations. We have an embarrassment of technical tooling and best practices, but none of it really fixes our human problems. Hell, most of the time it barely fixes our technical problems, so how would we expect it to fix our technical problems?
+This is the essence of the problem we face as technologists trying to improve our organizations. We have an embarrassment of technical tooling and best practices, but none of it really fixes our human problems. Hell, most of the time it barely fixes our technical problems, so how would we expect it to fix our human problems?
 
 I live in Philadelphia, and like many communities we have a Slack, and there's a devops channel. And every few months it seems we get an exchange like this:
 
